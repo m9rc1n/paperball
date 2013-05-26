@@ -1,8 +1,9 @@
 *.class
-
+.*
+*~
+*.swp
 doc/
-
-# Package Files #
+bin/
 *.jar
 *.war
 *.ear
